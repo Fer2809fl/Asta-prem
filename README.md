@@ -16,8 +16,8 @@ El runtime está diseñado para ser **ligero y cerrado**:
 Dentro de Termux:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/Fer2809fl/asta-bot-termux-runtime/main/install.sh | bash
-cd ~/asta-bot-runtime
+curl -fsSL https://raw.githubusercontent.com/Fer2809fl/Asta-prem/main/install.sh | bash
+cd ~/Asta-prem
 cp .env.example .env
 # Edita .env y ponle: BOT_NAME=MiAstaBot
 npm start
