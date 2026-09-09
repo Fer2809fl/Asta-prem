@@ -1,13 +1,13 @@
 #!/data/data/com.termux/files/usr/bin/bash
 # Instalador del runtime de Termux para Asta-Bot.
 # Uso:
-#   curl -fsSL https://raw.githubusercontent.com/Fer2809fl/asta-bot-termux-runtime/main/install.sh | bash
+#   curl -fsSL https://raw.githubusercontent.com/Fer2809fl/Asta-prem/main/install.sh | bash
 # o, dentro de una copia ya clonada del repo:
 #   bash install.sh
 
 set -euo pipefail
 
-REPO_URL="https://github.com/Fer2809fl/asta-bot-termux-runtime.git"
+REPO_URL="https://github.com/Fer2809fl/Asta-prem.git"
 INSTALL_DIR="$HOME/asta-bot-runtime"
 
 echo "── Instalador de Asta-Bot (runtime de Termux) ──"
