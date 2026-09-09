@@ -1,5 +1,5 @@
 {
-  "name": "asta-bot-termux-runtime",
+  "name": "Asta-prem",
   "version": "1.0.0",
   "description": "Runtime oficial de Termux para conectar un Sub-Bot de Asta-Bot a la API central",
   "type": "module",
